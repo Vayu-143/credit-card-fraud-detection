@@ -174,6 +174,22 @@ Steps to deploy:
 
 ---
 
+## 📸 Screenshots
+
+### App Interface
+![App UI](images/app_ui.png)
+
+### Prediction Result
+![Prediction](images/prediction_result.png)
+
+### ROC Curve
+![ROC](images/roc.png)
+
+### Dataset Insights
+![Insights](images/insights.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Vayunandan Mishra**  
