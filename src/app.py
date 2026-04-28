@@ -28,7 +28,9 @@ model, scaler = load_model()
 # ------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/creditcard.csv")
+    return pd.read_csv(
+        "https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv"
+    )
 
 df = load_data()
 
